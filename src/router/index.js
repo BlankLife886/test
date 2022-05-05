@@ -57,7 +57,7 @@ const routes = [
     },
 
     {
-        path: '/chart',
+        path: '/chartter',
         name: 'chart',
         component: () => import('../pages/chart/index')
     },
